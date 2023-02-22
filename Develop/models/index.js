@@ -17,7 +17,7 @@ Category.hasMany(Product, {
 });
 
 // Products belongToMany Tags (through ProductTag)
-Product.belongToMany(Tag, {
+Product.belongsToMany(Tag, {
   foreignKey: 'product_id',
   onDelete: 'CASCADE',
   through: ProductTag
