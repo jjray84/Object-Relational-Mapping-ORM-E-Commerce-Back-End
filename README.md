@@ -71,4 +71,4 @@ In insomnia, there are multiple ways to access the data. Here are the main ones 
 
 [Click here](https://github.com/jjray84/Object-Relational-Mapping-ORM-E-Commerce-Back-End) to be taken to the repository for this project.     
      
-[Click here]() for the walkthrough video.     
+[Click here](https://drive.google.com/file/d/1uz0UxBdloqHgiGZXgDlP08QJbYKvCW5C/view) for the walkthrough video.     
